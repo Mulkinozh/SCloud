@@ -1,0 +1,6 @@
+{
+	"name": "my-package",
+	"scripts": {
+		"test": "node Test.js"
+	}
+}
